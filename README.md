@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinícius Luiz</h1>
-<h3 align="center">I´m a Data and CRM Analyst passionate about customer journey studies</h3>
+<h3 align="center">I´m a Data Analyst passionate about customer journey studies</h3>
 
 - 🛠️ My newest project is based on **Conversion and Disengagement Survival Curves**
 
