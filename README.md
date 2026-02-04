@@ -40,9 +40,13 @@ Applied survival models to understand customer behavior, estimate churn risk, an
 🧠 Core Skills
 
 Languages: Python, SQL
+
 Analytics: Statistical Modeling, Experimentation, Time Series
+
 Machine Learning: Scikit-learn, Feature Engineering, Model Evaluation
+
 Data Engineering: ETL, Data Pipelines
+
 Cloud & Tools: AWS, GCP, Docker
 
 📫 Contact
